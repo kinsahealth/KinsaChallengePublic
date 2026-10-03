@@ -2,7 +2,7 @@
 agp = "8.0.2"
 kotlin = "2.0.21"
 activity = "1.7.0"
-appcompat = "1.4.1"
+appcompat = "1.8.0"
 compose = "2023.05.01"
 coreKtx = "1.8.0"
 espressoCore = "3.7.0"
